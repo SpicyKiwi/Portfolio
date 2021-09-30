@@ -1,0 +1,42 @@
+.card-container {
+    background-color: rgba(0,0,0,0.5);
+    backdrop-filter: blur(15px);
+    border: 2px solid rgba(255,255,255,0.2);
+    border-radius: 1rem;
+    box-shadow: 5px 15px 30px -10px rgb(0,0,0);
+    height: 350px;
+    width: 300px;
+    padding: 0.5rem;
+}
+
+.card-title {
+    padding: 0.5rem;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.card-image {
+    display: flex;
+    justify-content: center;}
+
+.card-body {
+    margin: 1rem;
+}
+
+.card-tech {
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.card-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-btn {
+    text-decoration: none;
+    color: black;
+    padding: 0.5rem 1.5rem;
+    background-color: rgb(34, 122, 194);
+}
