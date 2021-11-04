@@ -4,9 +4,13 @@
     border: 2px solid rgba(255,255,255,0.2);
     border-radius: 1rem;
     box-shadow: 5px 15px 30px -10px rgb(0,0,0);
-    height: 350px;
+    height: 400px;
     width: 300px;
     padding: 0.5rem;
+    margin-right: 1rem;
+}
+.card-container:hover {
+    background-color: darkred;
 }
 
 .card-title {
@@ -32,6 +36,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 
 .card-btn {
@@ -39,4 +44,5 @@
     color: black;
     padding: 0.5rem 1.5rem;
     background-color: rgb(34, 122, 194);
+    margin-bottom: 0.5rem;
 }
