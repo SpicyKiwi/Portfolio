@@ -1,12 +1,12 @@
 import React from 'react'
 import Card from './Card'
-import retroDrawPreview from './img/RetroDrawPreviewImg.PNG'
-import calculatorPreview from './img/CalculatorPreviewImg.PNG'
-import retroDrawHTML from './img/RetroDrawHTML.PNG'
-import arcadeSnake from './img/ArcadeSnakePreview.PNG'
-import netflixClone from './img/NetflixClonePreview.PNG'
-import artCollector from './img/ArtCollectorPreview.PNG'
-import personalSite from './img/PersonalSitePreview.PNG'
+import retroDrawPreview from 'img/RetroDrawPreviewImg.PNG'
+import calculatorPreview from 'img/CalculatorPreviewImg.PNG'
+import retroDrawHTML from 'img/RetroDrawHTML.PNG'
+import arcadeSnake from 'img/ArcadeSnakePreview.PNG'
+import netflixClone from 'img/NetflixClonePreview.PNG'
+import artCollector from 'img/ArtCollectorPreview.PNG'
+import personalSite from 'img/PersonalSitePreview.PNG'
 
 export default function Home() {
     return (
