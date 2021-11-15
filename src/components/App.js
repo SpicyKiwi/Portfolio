@@ -8,7 +8,7 @@ export default function App() {
     
     <Router>
 
-        <Switch>
+
 
             <Route path='/home'>
                 <Home />
@@ -16,7 +16,7 @@ export default function App() {
 
 
 
-        </Switch>
+
 
     </Router>
 
