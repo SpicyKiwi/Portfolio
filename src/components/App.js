@@ -14,9 +14,7 @@ export default function App() {
                 <Home />
             </Route>
 
-            <Router exact path='/'>
-                <Redirect to='/home' />
-            </Router>
+
 
         </Switch>
 
